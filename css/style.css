@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,800;1,300;1,400;1,600&family=Raleway:ital,wght@0,300;0,500;0,600;0,800;1,300;1,500;1,600&display=swap');
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+
+body p{
+font-family: 'Raleway', sans-serif;
+}
+
+header{
+	position: relative;
+	background-color: #000;
+	width: 100%;
+	top:0;
+}
+.section{
+padding: 5% 0;
+}
+
+#slides h1{
+font-family: 'Montserrat', sans-serif;
+color: #fff;
+font-weight: 700;
+text-transform: uppercase;
+font-size: 72px;
+}
+
+#slides p{
+color: #fff;
+font-weight: 700;
+font-style: italic;
+font-size: 22px;
+}
+
+#slides{
+background-image: url("../img/slide-1.jpg");
+background-position: top center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+padding-top: 10% 0;
+color: #fff;
+}
+
+
+.circulo {
+
+
+	width: 62px;
+	height: 62px;
+	line-height: 62px;
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 0px 5px rgba(0,217,217,0.30);
+	font-size: 30px;
+	background-color: #00D9D9;
+	color: #fff;
+	text-align: center;
+}
+
+#services h6{
+font-weight: 300;
+text-transform: uppercase;
+text-align: center;
+}
+
+h4{
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+text-transform: uppercase;
+font-size: 25px;
+}
+
+h5{
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+font-style: italic;
+font-size: 20px;
+}
